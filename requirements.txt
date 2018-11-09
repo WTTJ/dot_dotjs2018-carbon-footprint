@@ -1,0 +1,6 @@
+geopy==1.17.0
+percache==0.3.0
+jupyter==1.0.0
+tabulate==0.8.2
+bokeh==1.0.1
+pandas==0.23.4
